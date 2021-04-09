@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Mortaza Shahed.", "ein Filemmacher.", "ein Mediamatiker.", "ein Fotograf."],
+      strings: ["Mortaza Shahed.", "ein Filmemacher.", "ein Mediamatiker.", "ein Fotograf."],
       typeSpeed: 90,
       loop: true,
     });
