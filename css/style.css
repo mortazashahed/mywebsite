@@ -634,6 +634,7 @@ nav ul li a {
 
 .video {
   margin-top: 30px;
+  margin-bottom: 30px;
   display: block;
   align-items: center;
   flex-direction: column;
