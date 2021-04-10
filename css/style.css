@@ -449,7 +449,19 @@ nav ul li a {
 .portfolio-thumbnail img {
   max-width: 100%;
 }
-
+/*Video*//
+#video {
+  height: auto;
+  width: 100%;
+  background: #f7f7f7;
+  position: relative;
+  display: inline-block;
+  align-items: center;
+}
+iframe {
+  max-width: 100%;
+  
+}
 /*-----------------------------------------------------------------------------------*/
 /*  Journal
 /*-----------------------------------------------------------------------------------*/
@@ -630,13 +642,4 @@ nav ul li a {
 
 .credits {
   font-size: 13px;
-}
-
-.video {
-  margin-top: 30px;
-  margin-bottom: 30px;
-  display: block;
-  align-items: center;
-  flex-direction: column;
-  text-align: center;
 }
