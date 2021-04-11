@@ -485,7 +485,7 @@ iframe {
   width: 100%;
 }
 
-#journal .journal-block .journal-info {
+#journal .journal-block .journal-info .video-info {
   position: relative;
 }
 
@@ -498,7 +498,7 @@ iframe {
   position: relative;
 }
 
-.journal-block .journal-info .journal-txt h4 a {
+.journal-block .journal-info .journal-txt .video-txt h4 a {
   display: block;
   font-size: 19px;
   line-height: 24px;
@@ -512,7 +512,7 @@ iframe {
   transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-block .journal-info .journal-txt h4 a:hover {
+.journal-block .journal-info .journal-txt .video-txt h4 a:hover {
   color: #b8a07e;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
@@ -521,7 +521,7 @@ iframe {
   transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-block .journal-info .journal-txt p {
+.journal-block .journal-info .journal-txt p .video-txt{
   margin: 0;
   font-size: 14px;
   line-height: 24px;
